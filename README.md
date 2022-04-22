@@ -29,6 +29,6 @@ les étapes de démarage:
 -troisièmement demarrer enfin l'exécutable dans le projet elector-recognizer-vuejs: 
 ouvrez un autre terminal: accéder au dossier du projet elector-recognizer-vuejs par la commande cd /chemin_du dossier
 ensuite taper la commande  npm run serve
-et enfin ouvrez lz navigateur à l'adresse: http://localhost:8085/
+et enfin ouvrez le navigateur à l'adresse: http://localhost:8085/
 
 
